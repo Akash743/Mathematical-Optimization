@@ -21,7 +21,8 @@ When the number of variables and constraints are high, writing separate constrai
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/57750483/184526402-12aef98b-b34e-4461-9ad7-5b4593b0d60a.png)
 
-![Screenshot (91)](https://user-images.githubusercontent.com/57750483/184526407-ce66ec36-d682-418c-9b3f-32e95f3c03c4.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/57750483/184526433-fcde8d45-5dbb-4490-92d5-aeb742a47b3e.png)
+
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/57750483/184526411-52b54579-89db-44fe-b4c8-bc294cd2b149.png)
 
