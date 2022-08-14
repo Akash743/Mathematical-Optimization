@@ -20,6 +20,11 @@ When the number of variables and constraints are high, writing separate constrai
 
 **Problem-3:**
 
+![Screenshot (93)](https://user-images.githubusercontent.com/57750483/184538028-c546309c-389e-42f1-81c2-cce7fedd4b9c.png)
+
+![Screenshot (94)](https://user-images.githubusercontent.com/57750483/184538037-285beebc-cb4a-4c83-8a87-232db9dce77c.png)
+
+
 ![Screenshot (90)](https://user-images.githubusercontent.com/57750483/184526481-9692219b-3269-4582-9720-a119076ae6f9.png)
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/57750483/184526433-fcde8d45-5dbb-4490-92d5-aeb742a47b3e.png)
@@ -32,7 +37,7 @@ When the number of variables and constraints are high, writing separate constrai
 
 **Problem-1**
 
-![Screenshot (85)](https://user-images.githubusercontent.com/57750483/184537975-5b8cabd7-290a-4dae-80ef-ce38f268dead.png)
+
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/57750483/184537917-18ddcc27-b183-![Screenshot (95)](https://user-images.githubusercontent.com/57750483/184537930-2626b59e-d441-4ca7-a5f6-840afd50ae6e.png)
 4968-800f-c43505512b37.png)
