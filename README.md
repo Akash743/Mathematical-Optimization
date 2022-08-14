@@ -27,3 +27,23 @@ When the number of variables and constraints are high, writing separate constrai
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/57750483/184526411-52b54579-89db-44fe-b4c8-bc294cd2b149.png)
 
+
+**Mixed Integer Linear Programming(MILP)**
+
+**Problem-1**
+
+![Screenshot (85)](https://user-images.githubusercontent.com/57750483/184537975-5b8cabd7-290a-4dae-80ef-ce38f268dead.png)
+
+![Screenshot (94)](https://user-images.githubusercontent.com/57750483/184537917-18ddcc27-b183-![Screenshot (95)](https://user-images.githubusercontent.com/57750483/184537930-2626b59e-d441-4ca7-a5f6-840afd50ae6e.png)
+4968-800f-c43505512b37.png)
+
+![Uploading Screenshot (95).png…]()
+
+![Screenshot (96)](https://user-images.githubusercontent.com/57750483/184537940-0a1f8404-13fd-4dea-b39a-7417a7892649.png)
+
+
+![Screenshot (99)](https://user-images.githubusercontent.com/57750483/184537947-ff5cfd5e-c767-4b94-b763-acd3ab72e25c.png)
+
+![Screenshot (100)](https://user-images.githubusercontent.com/57750483/184537950-d2b82630-1d20-4b43-829d-9b2d5c90dc2f.png)
+
+![Screenshot (101)](https://user-images.githubusercontent.com/57750483/184537960-8c862298-aaff-443b-8288-1f23a9758623.png)
