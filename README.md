@@ -11,7 +11,7 @@ Non-Linear optimization:
 **Problem-2:**
 When the number of variables and constraints are high, writing separate constraints become cumbersome. Hence, will use **Sets** to do the repetitive task.
 
-![Screenshot (90)](https://user-images.githubusercontent.com/57750483/184526481-9692219b-3269-4582-9720-a119076ae6f9.png)
+
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/57750483/184493956-53bcadad-422a-4f27-a008-ac0e4b1cd3a2.png)
 
@@ -20,7 +20,7 @@ When the number of variables and constraints are high, writing separate constrai
 
 **Problem-3:**
 
-
+![Screenshot (90)](https://user-images.githubusercontent.com/57750483/184526481-9692219b-3269-4582-9720-a119076ae6f9.png)
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/57750483/184526433-fcde8d45-5dbb-4490-92d5-aeb742a47b3e.png)
 
