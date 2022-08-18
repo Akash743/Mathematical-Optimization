@@ -49,3 +49,12 @@ When the number of variables and constraints are high, writing separate constrai
 ![Screenshot (100)](https://user-images.githubusercontent.com/57750483/184537950-d2b82630-1d20-4b43-829d-9b2d5c90dc2f.png)
 
 ![Screenshot (101)](https://user-images.githubusercontent.com/57750483/184537960-8c862298-aaff-443b-8288-1f23a9758623.png)
+
+
+**Convex, Non-convex optimization**
+A convex optimization problem maintains the properties of a linear programming problem and a non convex problem the properties of a non linear programming problem.
+Actually, linear programming and nonlinear programming problems are not as general as saying convex and nonconvex optimization problems.
+
+The basic difference between the two categories is that in 
+a) convex optimization there can be only one optimal solution, which is globally optimal or you might prove that there is no feasible solution to the problem, while in 
+b) nonconvex optimization may have multiple locally optimal points and it can take a lot of time to identify whether the problem has no solution or if the solution is global. Hence, the efficiency in time of the convex optimization problem is much better. From my experience a convex problem usually is much more easier to deal with in comparison to a non convex problem which takes a lot of time and it might lead you to a dead end.
