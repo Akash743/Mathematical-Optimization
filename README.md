@@ -1,5 +1,7 @@
 # Mathematical-Optimization
 This repo consists different optimization problems with their solution in python.
+
+
 Non-Linear optimization:
 
 **Problem-1:**
